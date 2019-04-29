@@ -1,13 +1,13 @@
 {
-  "main.css": "/sokoban/static/css/main.a6feed3e.chunk.css",
-  "main.js": "/sokoban/static/js/main.6e5e5cd2.chunk.js",
-  "main.js.map": "/sokoban/static/js/main.6e5e5cd2.chunk.js.map",
-  "static/js/1.53fb1170.chunk.js": "/sokoban/static/js/1.53fb1170.chunk.js",
-  "static/js/1.53fb1170.chunk.js.map": "/sokoban/static/js/1.53fb1170.chunk.js.map",
+  "main.css": "/sokoban/static/css/main.e2949f1a.chunk.css",
+  "main.js": "/sokoban/static/js/main.8e009251.chunk.js",
+  "main.js.map": "/sokoban/static/js/main.8e009251.chunk.js.map",
+  "static/js/1.d601e352.chunk.js": "/sokoban/static/js/1.d601e352.chunk.js",
+  "static/js/1.d601e352.chunk.js.map": "/sokoban/static/js/1.d601e352.chunk.js.map",
   "runtime~main.js": "/sokoban/static/js/runtime~main.d9cd5ed2.js",
   "runtime~main.js.map": "/sokoban/static/js/runtime~main.d9cd5ed2.js.map",
-  "static/css/main.a6feed3e.chunk.css.map": "/sokoban/static/css/main.a6feed3e.chunk.css.map",
+  "static/css/main.e2949f1a.chunk.css.map": "/sokoban/static/css/main.e2949f1a.chunk.css.map",
   "index.html": "/sokoban/index.html",
-  "precache-manifest.71d75eb811b82ba7b94c63dc9f3afe21.js": "/sokoban/precache-manifest.71d75eb811b82ba7b94c63dc9f3afe21.js",
+  "precache-manifest.14f841ab880a16c39e59bcf7515ad289.js": "/sokoban/precache-manifest.14f841ab880a16c39e59bcf7515ad289.js",
   "service-worker.js": "/sokoban/service-worker.js"
 }
